@@ -1,1 +1,3 @@
 This files about automation details of the project.
+
+Hello
